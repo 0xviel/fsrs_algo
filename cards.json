@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "question": "長い",
+    "answer": "ながい | panjang",
+    "stability": 1,
+    "difficulty": 5,
+    "last_review": 0,
+    "due": 0
+  },
+  {
+    "id": 2,
+    "question": "大変",
+    "answer": "たいへん | berat",
+    "stability": 1,
+    "difficulty": 5,
+    "last_review": 0,
+    "due": 0
+  }
+]
